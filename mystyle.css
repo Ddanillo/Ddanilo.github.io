@@ -1,0 +1,56 @@
+
+body{
+    background-color:black;
+}
+#logo{
+    padding-left: 10%;
+    font-size: 200%;
+}
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    color: white;
+    margin-bottom: 120px; 
+    width: 100%;
+}
+.header-container h1,h2 {
+    width: 40%;
+}
+.header-container nav {
+    width: 60%;
+}
+.header-container nav ul {
+    list-style-type: none;
+    display: flex;
+    color: beige;
+}
+.header-container nav ul li {
+    margin-left: 1em;
+}
+#danilo{padding-left: 11%;
+}
+footer{
+    color: beige;
+    text-align: center;
+} 
+#lista_coisa{
+    color: beige;
+}
+#contato{
+    background-color: cornflowerblue;
+    width: 30%;
+    color: beige;
+    align-content: center;
+    flex-direction: column;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
